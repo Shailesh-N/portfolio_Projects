@@ -1,3 +1,5 @@
+--THIS FILE CONTAINS THE CLEANING AND ORGANIZING OF THE COVID DATASET TILL JANUARY 14,2022
+
 select *
 from [portfolio project].dbo.coviddeaths$
 where continent is not null
