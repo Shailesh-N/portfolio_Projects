@@ -1,0 +1,2 @@
+the excel files and SQL code is used to create a dashboard of the covid-19 data till jan 14,2022 
+which can be found on tableau public [link] https://public.tableau.com/app/profile/shyam5748/viz/Covid-19dashboardAsofJan142022/Dashboard1
