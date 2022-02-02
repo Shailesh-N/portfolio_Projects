@@ -89,7 +89,7 @@ def price_check():
 
 while True:
     price_check()
-    time.sleep(86400) #<---- what ever interval of time you need  your data recorded on
+    time.sleep(86400) #<---- what ever interval of time you need  your data recorded on in seconds
 
 
 #optional sending a mail if the  price requirements are met
